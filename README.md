@@ -2,6 +2,9 @@
 
 A comprehensive financial application with AI chatbot integration, voice support, and agent dashboard capabilities.
 
+## Structure of Repository
+<img width="2776" height="1845" alt="flowchart-fun (2)" src="https://github.com/user-attachments/assets/8f6ce4be-2a90-41d8-b6cf-d272963baae7" />
+
 ## Features
 
 ### User Features
